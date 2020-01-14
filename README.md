@@ -39,3 +39,10 @@ You should use design patterns to make your code more flexible and the code more
 | Object create and use are separated | can make the code very complicated if the we will have a lot of subclasses of the creators. |
 | Single responsibility |   |
 | Open/closed principle \*  – we can add new types to the code without breaking the code. |   |
+
+
+# Links
+
+Interesting links to read and expend the knowlegde
+- The Principles Of Good Programming - an article that summerize a few coding principles.
+  - https://www.c-sharpcorner.com/article/the-principles-of-good-programming/
