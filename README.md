@@ -4,6 +4,7 @@
 - When to use a finalizer
 - Boxing unboxing - why is it so expensive to use.
 - Check the parameter in ConfigureAwait - continueOnCapturedContext
+- Threads join - what's is it, how to use it and when to use it?
 
 # Multithreading
 
